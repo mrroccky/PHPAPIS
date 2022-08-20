@@ -1,0 +1,11 @@
+<?php
+
+
+
+
+
+$_localhost ="localhost";
+
+
+
+?>
